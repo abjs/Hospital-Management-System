@@ -106,6 +106,29 @@
 
 # For more information contact me
 
+---
+
 <a href="mailto:itsmeabjs@gmail.com">
-<img align="left" alt="Git" width="50px" src="./readmehelper/gmail.png" />
+<img align="left" alt="Gmail" width="50px" src="./readmehelper/gmail.png" />
 </a>
+
+<a href="https://www.facebook.com/itsmeabjs.me/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Facebook" width="50px" src="./readmehelper/fb.png" />
+</a>
+<a href="https://www.instagram.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Instagram" width="50px" src="./readmehelper/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/itsmeabjs/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="linkedin" width="50px" src="./readmehelper/linkedin.png" />
+</a>
+<a href="https://dev.to/abjs/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="linkedin" width="50px" src="./readmehelper/Dev.png" />
+</a>
+<a href="https://twitter.com/itsmeabjs/" target="_blank" rel="noopener noreferrer">
+    <img align="left" alt="Twitter" width="50px" src="./readmehelper/twitter.png" />
+</a>
+
+<br>
+
+
+---
