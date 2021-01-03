@@ -23,7 +23,7 @@
 
 #  Pages
 
-## <a href="http://hackclubhms.42web.io/">Home</a>
+## <a href="http://hackclubhms.42web.io/" target="_blank" >Home</a>
 
 <br>
 
@@ -31,5 +31,51 @@
 
 <br>
 
-## Home :
+## <a href="http://hackclubhms.42web.io/contact.php" target="_blank" >Contact Us</a>
+
+<br>
+
+<img  alt="Home"  src="./readmehelper/Contact.png" />
+
+<br>
+
+## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Patient Login</a>
+
+<br>
+
+<img  alt="Home"  src="./readmehelper/PatientLogin.png" />
+
+<br>
+ 
+## <a href="http://hackclubhms.42web.io/hms/admin/" target="_blank" >Admin Login</a>
+
+<br>
+
+<img  alt="Home"  src="./readmehelper/AdminLogin.png" />
+
+<br>
+
+## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Doctor Login</a>
+
+<br>
+
+<img  alt="Home"  src="./readmehelper/DoctorLogin.png" />
+
+<br>
+
+
+
+
+
+
+## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Doctor Login</a>
+
+<br>
+
+<img  alt="Home"  src="./readmehelper/DoctorLogin.png" />
+
+<br>
+
+
+
 
