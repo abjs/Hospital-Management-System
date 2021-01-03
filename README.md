@@ -23,7 +23,7 @@
 
 #  Pages
 
-## <a href="http://hackclubhms.42web.io">Home</a>
+## <a href="http://hackclubhms.42web.io/">Home</a>
 
 <br>
 
