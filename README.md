@@ -39,43 +39,73 @@
 
 <br>
 
-## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Patient Login</a>
+## <a href="http://hackclubhms.42web.io/hms/registration.php" target="_blank" >User Registration</a>
 
 <br>
 
-<img  alt="Home"  src="./readmehelper/PatientLogin.png" />
+<img  alt="User Registration"  src="./readmehelper/UserRegistration.png" />
+
+<br>
+
+## <a href="http://hackclubhms.42web.io/hms/user-login.php" target="_blank" >Patient Login</a>
+
+<br>
+
+<img  alt="Patient Login"  src="./readmehelper/PatientLogin.png" />
 
 <br>
  
 ## <a href="http://hackclubhms.42web.io/hms/admin/" target="_blank" >Admin Login</a>
 
+### Default Admin Username is : admin
+### Default Admin Password is : password
+
 <br>
 
-<img  alt="Home"  src="./readmehelper/AdminLogin.png" />
+<img  alt="Admin Login"  src="./readmehelper/AdminLogin.png" />
 
 <br>
 
 ## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Doctor Login</a>
 
-<br>
-
-<img  alt="Home"  src="./readmehelper/DoctorLogin.png" />
+### Using Admin Page create an Doctor
 
 <br>
 
-
-
-
-
-
-## <a href="http://hackclubhms.42web.io/hms/doctor/" target="_blank" >Doctor Login</a>
+<img  alt="Doctor Login"  src="./readmehelper/DoctorLogin.png" />
 
 <br>
 
-<img  alt="Home"  src="./readmehelper/DoctorLogin.png" />
+## Admin Dashboard
+
+<br>
+
+<img  alt="Admin Dashboard"  src="./readmehelper/AdminDashboard.png" />
+
+<br>
+
+## Doctor Dashboard
+
+<br>
+
+<img  alt="Doctor Dashboard"  src="./readmehelper/DoctorDashboard.png" />
+
+<br>
+
+## User Dashboard
+
+<br>
+
+<img  alt="Doctor Dashboard"  src="./readmehelper/UserDashboard.png" />
 
 <br>
 
 
 
+---
 
+# For more information contact me
+
+<a href="mailto:itsmeabjs@gmail.com">
+<img align="left" alt="Git" width="50px" src="./readmehelper/gmail.png" />
+</a>
