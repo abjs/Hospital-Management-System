@@ -134,7 +134,5 @@
 ---
 
 <a href="http://hackclubhms.42web.io/" target="_blank" rel="noopener noreferrer">
-<h1>
 Visit The Website for Trial 
-</h1>
 </a>
