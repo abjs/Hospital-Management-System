@@ -23,9 +23,13 @@
 
 #  Pages
 
-## Home : hackclubhms.42web.io
+## <a href="hackclubhms.42web.io">Home</a>
 
 <br>
 
-<img align="left" alt="Home"  src="./readmehelper/home.png" />
+<img  alt="Home"  src="./readmehelper/home.png" />
+
+<br>
+
+## Home :
 
